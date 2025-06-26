@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://github.com/starmohit14/Todo-App.git",
+  "homepage": "https://starmohit14.github.io/Todo-App",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
